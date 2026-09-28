@@ -1,0 +1,7 @@
+fruta = 'banana'
+
+for letra in fruta:
+    print(letra)
+
+ano = 2026
+print(ano[0])    
